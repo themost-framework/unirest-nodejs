@@ -1,3 +1,6 @@
+### Important note: This package is a fork of [unirest@0.6.0](https://github.com/Kong/unirest-nodejs) and fixes a known vulnerability issue of async <2.6.4
+
+
 # Unirest for Node.js [![Build Status][travis-image]][travis-url] 
 
 [![License][npm-license]][license-url]
