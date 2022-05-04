@@ -1,0 +1,12 @@
+# nodejs
+node_modules
+
+# ide
+.vscode
+.idea
+.editorconfig
+
+# test
+tests
+.travis.yml
+Makefile
